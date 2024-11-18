@@ -12,8 +12,6 @@ This repository contains solutions to 5 LeetCode problems. Each problem is solve
 **Time Complexity:** O(n), where n is the length of the longest input string.  
 **Space Complexity:** O(1) (ignoring the output string).
 
-**LeetCode Submission:** [View Submission](https://leetcode.com/submissions/detail/your_submission_id/) (Replace `your_submission_id` with the actual submission ID when available)
-
 ---
 
 ### 2. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
@@ -23,8 +21,6 @@ This repository contains solutions to 5 LeetCode problems. Each problem is solve
 
 **Time Complexity:** O(n), where n is the length of the array.  
 **Space Complexity:** O(1) (in-place modification of the array).
-
-**LeetCode Submission:** [View Submission](https://leetcode.com/submissions/detail/your_submission_id/) (Replace `your_submission_id` with the actual submission ID when available)
 
 ---
 
@@ -36,8 +32,6 @@ This repository contains solutions to 5 LeetCode problems. Each problem is solve
 **Time Complexity:** O(n * m), where n is the length of `haystack` and m is the length of `needle`.  
 **Space Complexity:** O(1) (ignoring input strings).
 
-**LeetCode Submission:** [View Submission](https://leetcode.com/submissions/detail/your_submission_id/) (Replace `your_submission_id` with the actual submission ID when available)
-
 ---
 
 ### 4. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
@@ -47,8 +41,6 @@ This repository contains solutions to 5 LeetCode problems. Each problem is solve
 
 **Time Complexity:** O(n), where n is the length of the string.  
 **Space Complexity:** O(1) (in-place traversal).
-
-**LeetCode Submission:** [View Submission](https://leetcode.com/submissions/detail/your_submission_id/) (Replace `your_submission_id` with the actual submission ID when available)
 
 ---
 
@@ -60,16 +52,4 @@ This repository contains solutions to 5 LeetCode problems. Each problem is solve
 **Time Complexity:** O(1) per call.  
 **Space Complexity:** O(1) for the counter function.
 
-**LeetCode Submission:** [View Submission](https://leetcode.com/submissions/detail/your_submission_id/) (Replace `your_submission_id` with the actual submission ID when available)
-
 ---
-
-## Conclusion
-
-These solutions provide efficient algorithms to solve common problems encountered on LeetCode. They utilize fundamental techniques such as two-pointer methods, string matching algorithms, and closures in JavaScript. The goal of this repository is to provide clear and simple solutions that can be used as a reference for learning and improving problem-solving skills.
-
----
-
-### Note:
-- **How to find your submission ID on LeetCode:**
-  After submitting your solution, go to the **"Submissions"** tab on the problem page (e.g., for the [Add Binary problem](https://leetcode.com/problems/add-binary/description/)). Your submission ID will be available under the **"Submissions"** section, usually next to the status (Accepted/Failed). You can copy the submission URL directly from the page.
