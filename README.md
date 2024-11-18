@@ -64,28 +64,9 @@ This repository contains solutions to 5 LeetCode problems. Each problem is solve
 
 ---
 
-## Getting Started
-
-To run the solutions:
-
-1. **Clone the repository** to your local machine using:
-    ```bash
-    git clone https://github.com/your-username/leetcode-solutions.git
-    ```
-
-2. Navigate to the appropriate folder for each problem and open the solution in your preferred editor.
-
-3. For each problem, run the code by executing the script in your Ruby environment or using your LeetCode platform to test the solution.
-
----
-
 ## Conclusion
 
 These solutions provide efficient algorithms to solve common problems encountered on LeetCode. They utilize fundamental techniques such as two-pointer methods, string matching algorithms, and closures in JavaScript. The goal of this repository is to provide clear and simple solutions that can be used as a reference for learning and improving problem-solving skills.
-
----
-
-**Happy Coding!**
 
 ---
 
