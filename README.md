@@ -5,6 +5,7 @@
 This repository contains solutions to 5 LeetCode problems. Each problem is solved in Ruby, and the solutions are designed to be efficient and easy to understand.
 
 **Problems Solved**
+
 **1. Add Binary**
 Problem: Given two binary strings a and b, return their sum as a binary string.
 
